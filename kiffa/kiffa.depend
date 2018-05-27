@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1527018973 source:c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\main.cpp
+1527459121 source:c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\main.cpp
 	<iostream>
 	<cctype>
 	<map>
@@ -16,19 +16,19 @@
 
 1526733308 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\kifejezes.h
 
-1526851597 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\tokenizer.h
+1527456395 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\tokenizer.h
 	<iostream>
 	<cctype>
 	<map>
 	<string>
 
-1526930074 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\expression.h
+1527455722 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\expression.h
 	"Tokenizer.h"
 
 1526851175 source:c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\src\expression.cpp
 	"Expression.h"
 
-1527019532 source:c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\src\tokenizer.cpp
+1527456865 source:c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\src\tokenizer.cpp
 	"Tokenizer.h"
 
 1526929998 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\constant.h
@@ -41,7 +41,7 @@
 	"Constant.h"
 	<sstream>
 
-1526929998 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\variable.h
+1527455722 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\variable.h
 	<iostream>
 	<string>
 	<map>
@@ -52,12 +52,12 @@
 	<sstream>
 	"Variable.h"
 
-1526930634 source:c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\src\operator.cpp
+1527455722 source:c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\src\operator.cpp
 	"Operator.h"
 	<sstream>
 	<cmath>
 
-1526929998 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\operator.h
+1527455722 c:\users\koncz\onedrive\documents\jegyzetek, elõadások\programozás c++ nyelven\bead\kiffa\include\operator.h
 	<iostream>
 	<string>
 	<map>
